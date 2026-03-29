@@ -160,3 +160,4 @@ plt.show()
 
 # Results
 Thus,the Python program for the modulation and demodulation of ASK and FSK has been successfuly simulated.
+
